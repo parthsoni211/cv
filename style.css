@@ -1,0 +1,10 @@
+h3:hover{
+    background-color: rgb(244, 247, 237);
+}
+*{
+    background-color: rgb(25, 19, 12);
+    color:whitesmoke;
+}
+li{
+    list-style-type: lower-roman;
+}
